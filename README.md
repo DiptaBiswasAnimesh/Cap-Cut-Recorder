@@ -45,6 +45,5 @@ This is a simple Windows application that allows you to record your screen and c
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to fork, modify, and use this project according to your needs.
