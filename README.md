@@ -43,7 +43,6 @@ This is a simple Windows application that allows you to record your screen and c
 - NAudio Library: https://github.com/naudio/NAudio
 - FFmpeg: https://ffmpeg.org/
 
-## License
-
-
+## Contact
+Email: diptabiswas223@gmail.com
 Feel free to fork, modify, and use this project according to your needs.
